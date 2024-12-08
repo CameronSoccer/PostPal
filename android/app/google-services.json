@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830130915287",
+    "project_id": "a-i-art-sqtyyy",
+    "storage_bucket": "a-i-art-sqtyyy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830130915287:android:c3eb32de4dd128efcaed92",
+        "android_client_info": {
+          "package_name": "io.flutterflow.postpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEd71ZC2ZNBN1AcROUpdZ8gAONdMMVOqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

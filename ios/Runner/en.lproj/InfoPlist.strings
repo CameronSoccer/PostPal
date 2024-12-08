@@ -1,0 +1,2 @@
+PermissionGroupNotification = "In order to send you important reminders, this app requires permission to send notifications.";
+NSMicrophoneUsageDescription = "In order to record your own audio ";
